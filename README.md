@@ -13,10 +13,3 @@
 
 ---
 
-## Exemplo do fluxo de uso
-seu-projeto/
-├── main.py
-└── arquivos/
-├── 01_intro.pdf
-├── 02_capitulo1.pdf
-├── 03_capitulo2.pdf
